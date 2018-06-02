@@ -80,7 +80,7 @@ section>h2{font-size: 40px;
     text-transform: uppercase;}
 .main-menu li{border-bottom: 3px solid transparent}
 .main-menu li:hover{border-bottom: 3px solid #395064}
-section h3{text-transform: uppercase;font-weight: 500;font-size: 28px;color: white;margin-top: 45px;}
+section h3{text-transform: uppercase;font-weight: 500;font-size: 28px;margin-top: 45px;}
 section p{line-height: 2}
 section{overflow: hidden;}
 .skills{font-size: 16px; font-weight: bold}
